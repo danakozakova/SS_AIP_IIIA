@@ -1,5 +1,3 @@
 # SS_AIP
 
-https://forms.cloud.microsoft/e/wJKKtr5hxs
-
-https://claude.ai/code/artifact/7ef5ee94-8437-45f2-b000-6c5b6fd0b177
+https://forms.cloud.microsoft/e/9JcaXueFUx
