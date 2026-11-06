@@ -1,0 +1,4 @@
+﻿cislo_faktury;klient;suma_eur;datum_vystavenia;splatnost
+FA_26090001;Klient Pixel;125,00;30.09.2026;14.10.2026
+FA_26090002;Klient Glitch;50,00;16.09.2026;30.09.2026
+FA_26090003;Klient Glitch;25,00;23.09.2026;07.10.2026
