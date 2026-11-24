@@ -1,0 +1,7 @@
+02_github-repozitar_zadanie.html
+AIP_03_pracovny_zosit_studenti.md
+AIP_04_tokeny_studenti.md
+AIP_06_automatizacia_gmail_zadanie.md
+AIP_07_debordelizacia_zadanie.md
+AIP_08_uvod-html_zadanie.html
+PLAN_a_ZADANIE.md
